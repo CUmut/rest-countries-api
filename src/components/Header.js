@@ -18,7 +18,7 @@ export default function Header() {
       <header className="header">
         <div>
           <h1>Where is the world ? </h1>
-        </div>
+        </div> 
 
         <div>
           <FontAwesomeIcon icon={faMoon} onClick={() => changeTheme()} />
